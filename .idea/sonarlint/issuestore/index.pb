@@ -13,3 +13,6 @@ a
 1src/com/workspace/singleton/SingletonPattern.java,6/f/6ff059bc54b72b7a6931d4fe52527eff326fc979
 U
 %src/com/workspace/singleton/README.md,6/9/698deb7f496d9e65d4162c0f49228e58f3dc1c29
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
