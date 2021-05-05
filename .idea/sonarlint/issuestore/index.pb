@@ -16,3 +16,15 @@ U
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+S
+#src/com/workspace/factory/Bike.java,8/7/87442ed484631750b73bc0998c8c332facd429c9
+R
+"src/com/workspace/factory/Car.java,4/9/492ce8e2b5adbe4d702e0bb379da2b2b5cf87945
+V
+&src/com/workspace/factory/Vehicle.java,d/f/df9d1e3399b4625d0d9ac575710303730518dac5
+S
+#src/com/workspace/factory/README.md,a/b/abd16686beed1a707b72b10afc9870a2aaf02ec9
+]
+-src/com/workspace/factory/VehicleFactory.java,2/e/2e01179fa7de84515fd1c256304db14f1c905eac
+]
+-src/com/workspace/factory/FactoryPattern.java,6/b/6b509eb9a1112ac5a0041875db13c02642ffa80d

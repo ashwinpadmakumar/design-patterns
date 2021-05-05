@@ -1,5 +1,5 @@
 /**
- * Classification: Trimble Confidential.
+ * 
  * Description: Custom Banner for Startup
  *
  * @author: Ashwin Padmakumar
