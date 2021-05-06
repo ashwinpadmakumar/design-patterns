@@ -28,3 +28,9 @@ S
 -src/com/workspace/factory/VehicleFactory.java,2/e/2e01179fa7de84515fd1c256304db14f1c905eac
 ]
 -src/com/workspace/factory/FactoryPattern.java,6/b/6b509eb9a1112ac5a0041875db13c02642ffa80d
+V
+&src/com/workspace/builder/Vehicle.java,f/4/f4afe58fd4e115e4ecae1f009a56af23170841f2
+S
+#src/com/workspace/builder/README.md,9/1/9155a10e2fad04b8f6061a8c8e1d6f16c4b7007b
+]
+-src/com/workspace/builder/BuilderPattern.java,5/f/5fc1a499cdfefb77b9269a5129ee7079a76aede8
