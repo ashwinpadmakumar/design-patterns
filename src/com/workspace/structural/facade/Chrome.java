@@ -1,15 +1,16 @@
-package com.workspace.facade;
-
-import java.sql.Driver;
-
 /**
- * 
+ *
  * Description: Custom Banner for Startup
  *
  * @author: Ashwin Padmakumar
  * @since: 2021-05-14
  * @version: 0.1
  */
+
+package com.workspace.structural.facade;
+
+import java.sql.Driver;
+
 public class Chrome {
 
   public static Driver getChromeDriver() {

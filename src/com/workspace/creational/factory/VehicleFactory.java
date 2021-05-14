@@ -7,7 +7,7 @@
  * @version: 0.1
  */
 
-package com.workspace.factory;
+package com.workspace.creational.factory;
 
 public class VehicleFactory {
 

@@ -1,4 +1,4 @@
-package com.workspace.singleton;
+package com.workspace.creational.singleton;
 
 /**
  * Description: Singleton object created using eager initialization.

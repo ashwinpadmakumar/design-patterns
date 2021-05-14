@@ -1,4 +1,4 @@
-package com.workspace.prototype;
+package com.workspace.creational.prototype;
 
 import java.util.List;
 

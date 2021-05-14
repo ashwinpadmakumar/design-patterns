@@ -1,4 +1,4 @@
-package com.workspace.proxy;
+package com.workspace.structural.proxy;
 
 /**
  * 

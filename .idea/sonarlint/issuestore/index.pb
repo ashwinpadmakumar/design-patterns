@@ -34,3 +34,9 @@ S
 #src/com/workspace/builder/README.md,9/1/9155a10e2fad04b8f6061a8c8e1d6f16c4b7007b
 ]
 -src/com/workspace/builder/BuilderPattern.java,5/f/5fc1a499cdfefb77b9269a5129ee7079a76aede8
+X
+(src/com/workspace/prototype/Vehicle.java,b/e/be3688c3ac9917a32acf66382bdc09fc2c9ab6d9
+a
+1src/com/workspace/prototype/PrototypePattern.java,b/3/b3b45878e322aafd4d27abfdff491fe00fff988d
+U
+%src/com/workspace/prototype/README.md,3/e/3e9ea6e193f1c3ce3e82a68934c5d95f65304bd0

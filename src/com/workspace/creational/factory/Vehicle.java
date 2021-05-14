@@ -1,4 +1,4 @@
-package com.workspace.factory;
+package com.workspace.creational.factory;
 
 /**
  * 

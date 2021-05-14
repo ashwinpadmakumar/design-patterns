@@ -1,4 +1,4 @@
-package com.workspace.facade;
+package com.workspace.structural.facade;
 
 import java.sql.Driver;
 

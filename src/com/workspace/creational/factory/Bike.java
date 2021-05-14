@@ -6,12 +6,12 @@
  * @since: 2021-05-04
  * @version: 0.1
  */
-package com.workspace.factory;
+package com.workspace.creational.factory;
 
-public class Car extends Vehicle {
+public class Bike extends Vehicle {
   int wheel;
 
-  Car(int wheel) {
+  Bike(int wheel) {
     this.wheel = wheel;
   }
 

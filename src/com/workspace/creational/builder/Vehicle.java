@@ -7,9 +7,7 @@
  * @version: 0.1
  */
 
-
-package com.workspace.builder;
-
+package com.workspace.creational.builder;
 
 public class Vehicle {
 
